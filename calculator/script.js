@@ -18,3 +18,4 @@ circle.addEventListener('mouseup',function(){circle.style.color = 'white'});
 let somethng = document.querySelector('#one');
 let somethng2 = document.querySelector('#two');
 console.log(Number(somethng.innerText) +Number(somethng2.innerText));
+console.log("I changed it");
